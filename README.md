@@ -50,3 +50,5 @@ Continuous Integration & Deployment (CI/CD): CI/CD pipelines automate the softwa
 
 Conclusion
 The developer landscape is constantly evolving, and it can be challenging to keep up with the latest technologies, methodologies, and best practices. However, by focusing on the key skills and technologies outlined in this roadmap, you can set yourself up for success as a software developer. Remember to continue learning and exploring new technologies, and always strive to improve your skills and knowledge. Good luck!
+ Developers-Roadmap
+This repo contains developer path for every tech stack.

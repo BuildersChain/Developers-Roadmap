@@ -1,7 +1,7 @@
-Developer Roadmap
+# Developer Roadmap
 Welcome to the Developer Roadmap! This guide is designed to help aspiring developers and established professionals alike to understand the key skills, technologies, and methodologies required for building software applications. Whether you are just starting out on your developer journey, or you are an experienced coder looking to expand your knowledge, this roadmap will provide you with a comprehensive overview of the landscape.
 
-Key Skills
+## Key Skills
 The following is a list of essential skills that every developer should possess:
 
 Problem Solving: The ability to break down complex problems into smaller, more manageable parts.

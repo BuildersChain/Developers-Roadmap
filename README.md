@@ -25,7 +25,65 @@
 # Developer Roadmap
 Welcome to the Developer Roadmap! This guide is designed to help aspiring developers and established professionals alike to understand the key skills, technologies, and methodologies required for building software applications. Whether you are just starting out on your developer journey, or you are an experienced coder looking to expand your knowledge, this roadmap will provide you with a comprehensive overview of the landscape.
 
-## Key Skills
+
+### [View all Roadmaps](https://roadmap.sh)
+
+![](https://i.imgur.com/waxVImv.png)
+
+Here is the list of available roadmaps with more being actively worked upon.
+
+- [Frontend Roadmap](https://roadmap.sh/frontend)
+- [Backend Roadmap](https://roadmap.sh/backend)
+- [DevOps Roadmap](https://roadmap.sh/devops)
+- [Computer Science Roadmap](https://roadmap.sh/computer-science)
+- [QA Roadmap](https://roadmap.sh/qa)
+- [Software Architect Roadmap](https://roadmap.sh/software-architect)
+- [Software Design and Architecture Roadmap](https://roadmap.sh/software-design-architecture)
+- [JavaScript Roadmap](https://roadmap.sh/javascript)
+- [TypeScript Roadmap](https://roadmap.sh/typescript)
+- [React Roadmap](https://roadmap.sh/react)
+- [Vue Roadmap](https://roadmap.sh/vue)
+- [Angular Roadmap](https://roadmap.sh/angular)
+- [Node.js Roadmap](https://roadmap.sh/nodejs)
+- [GraphQL Roadmap](https://roadmap.sh/graphql)
+- [Android Roadmap](https://roadmap.sh/android)
+- [Flutter Roadmap](https://roadmap.sh/flutter)
+- [Python Roadmap](https://roadmap.sh/python)
+- [Go Roadmap](https://roadmap.sh/golang)
+- [Java Roadmap](https://roadmap.sh/java)
+- [Spring Boot Roadmap](https://roadmap.sh/spring-boot)
+- [Design System Roadmap](https://roadmap.sh/design-system)
+- [DBA Roadmap](https://roadmap.sh/postgresql-dba)
+- [Blockchain Roadmap](https://roadmap.sh/blockchain)
+- [ASP.NET Core Roadmap](https://roadmap.sh/aspnet-core)
+- [System Design Roadmap](https://roadmap.sh/system-design)
+- [Kubernetes Roadmap](https://roadmap.sh/kubernetes)
+
+
+## Share with the community
+
+Please consider sharing a post about [BuildersChain](https://github.com/BuildersChain) and the value it provides. It really does help!
+
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)]()
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-hacker%20news-orange?logo=ycombinator)]()
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)]()
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)]()
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)]()
+
+
+## Contribution
+
+> Have a look at [contribution docs](./contribution.md) for how to update any of the roadmaps
+
+- Add content to roadmaps
+- Add new roadmaps
+- Suggest changes to existing roadmaps
+- Discuss ideas in issues
+- Spread the word
+
+
+
+<!-- ## Key Skills
 The following is a list of essential skills that every developer should possess:
 
 Problem Solving: The ability to break down complex problems into smaller, more manageable parts.
@@ -75,4 +133,4 @@ Continuous Integration & Deployment (CI/CD): CI/CD pipelines automate the softwa
 Conclusion
 The developer landscape is constantly evolving, and it can be challenging to keep up with the latest technologies, methodologies, and best practices. However, by focusing on the key skills and technologies outlined in this roadmap, you can set yourself up for success as a software developer. Remember to continue learning and exploring new technologies, and always strive to improve your skills and knowledge. Good luck!
  Developers-Roadmap
-This repo contains developer path for every tech stack.
+This repo contains developer path for every tech stack. -->

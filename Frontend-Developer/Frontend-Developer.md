@@ -1,27 +1,36 @@
-# Frontend Development
-
+<h1 align="center"> Frontend Development </h1>
 
 ## Basics of Internet
 
-## HTML
+- [Overview]()
 
-- [Overview](Frontend-Developer\HTML-CSS)
-- [Code/command](Frontend-Developer\HTML-CSS)
-- [Projects](Frontend-Developer\HTML-CSS)
+## HTML-CSS
+
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" height="60" alt="HTML-CSS"> 
+
+- [Overview](Frontend-Developer/HTML-CSS)
+- [Code/command](Frontend-Developer/HTML-CSS)
+- [Projects](Frontend-Developer/HTML-CSS)
 
 ## JavaScript
+
+<img align="right" src="https://vectorwiki.com/images/G9sE3__javascript.svg" height="60" alt="JavaScript"> 
 
 - [Overview]()
 - [Code/command]()
 - [Projects]()
 
-## Git-Githuh
+## Git-GitHub
+
+<img align="right" src="https://raw.githubusercontent.com/kenangundogan/fontisto/ab2364a6e61bd6e4af1cf62a167485d658911ded/icons/svg/brand/github.svg" height="60" alt="Git-GitHub"> 
 
 - [Overview]()
 - [Code/command]()
 - [Projects]()
 
 ## Framework
+
+<!-- <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" height="60" alt="HTML-CSS">  -->
 
 - [Overview]()
 - [Code/command]()

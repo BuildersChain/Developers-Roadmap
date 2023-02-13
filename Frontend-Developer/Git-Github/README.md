@@ -16,10 +16,10 @@ Git is a distributed version control system that helps keep track of changes in 
 
 ## Basic Git Commands
 
-* `git status` - Shows the status of your local repository.
+* `git `status` - This shows the status of your local repository.
 * `git clone [repository link]` - Clone the forked copy of the project.
 * `git branch [branch name]` - Creates a new branch.
-* `git checkout -b [your branch name]` - Creates a new branch and also checkout in that as well.
+* `git checkout -b [your branch name]` - Creates a new branch and also checks out in that as well.
 * `git add [file name]` - Adds the specified file to the repository.
 * `git commit -m "[commit message]"` - Commits the changes to the repository with a message describing the changes.
 * `git push origin [branch name]` - Pushes the changes to the specified branch on GitHub.
@@ -32,7 +32,7 @@ Git is a distributed version control system that helps keep track of changes in 
 * Create a new branch to work on.
 * Make changes to the code and push the changes to your forked repository.
 * Submit a pull request to the original repository, describing the changes you have made.
-* The repository owner will review the changes and merge them into the original repository, if they are approved.
+* The repository owner will review the changes and merge them into the original repository if they are approved.
 
 ## Learning Resources
 

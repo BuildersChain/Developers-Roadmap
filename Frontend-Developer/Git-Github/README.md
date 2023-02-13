@@ -10,8 +10,9 @@ Git is a distributed version control system that helps keep track of changes in 
 * Choose a name and description for your repository, and select the type of repository you want to create.
 * Initialize your repository with a README file, if you wish.
 * Clone the repository to your local machine by copying the repository URL.
-* Open a terminal window and navigate to the directory you want to keep your code.
 * Type in the command "git clone [repository URL]" to clone the repository.
+* Open a terminal window and navigate to the directory you want to keep your code.
+
 
 ## Basic Git Commands
 

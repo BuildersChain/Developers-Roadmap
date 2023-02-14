@@ -10,7 +10,7 @@ First of all thank you for considering to contribute. Please look at the details
 
 ## New Roadmaps
 
-For new roadmaps, submit a roadmap by providing [a textual roadmap similar to this roadmap]() in an issue.
+For new roadmaps, submit a roadmap by providing [a textual roadmap similar to this roadmap](Frontend-Developer\JavaScript\Javascript-roadmap.md) in an issue.
 
 ## Existing Roadmaps
 

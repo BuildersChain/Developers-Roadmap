@@ -1,0 +1,140 @@
+> Textual version of the JavaScript roadmap 
+
+- Introduction to JavaScript
+  - What is JavaScript?
+  - History of JavaScript
+  - JavaScript Versions
+  - How to Run JavaScript
+
+- All about Variables
+  - Rules for naming variables
+  - Variable Declarations
+    - var
+    - let
+    - const
+  - Variable Scopes
+    - Block Scope
+    - Global Scope
+    - Function Scope
+  - Hoisting
+
+- Data Types
+  - Primitive Types
+    - string
+    - number
+    - bigint
+    - boolean
+    - undefined
+    - symbol
+    - null
+  - Object
+    - Object Prototypes
+    - Prototypal Inheritance
+  	- Built-in Objects
+  - `typeof` operator
+
+- Data Structures
+    - Indexed Collections
+      - Arrays
+      - Typed Arrays
+    - Keyed Collections
+      - Map
+      - Weak Map
+      - Set
+      - Weak Set
+    - Structured Data
+      - JSON
+
+- Type Casting
+  - Implicit Type Casting
+  - Explicit Type Casting
+  - Type Conversion vs Coercion
+
+- Equality comparisons
+  - Equality Algorithms in JavaScript
+    - isLooselyEqual
+    - isStrictlyEqual
+    - SameValueZero
+    - SameValue
+  - Value Comparison Operators
+    - ===
+    - ==
+    - Object.is
+
+- Loops and Iteration
+  - for statement
+  - do...while statement
+  - while statement
+  - break / continue
+  - labeled statements
+  - for...in statement
+  - for...of statement
+
+- Control Flow
+  - Conditional Statements
+    - if...else
+    - switch
+  - Exception Handling Statements
+    - throw statement
+    - try / catch / finally statement
+    - Utilizing Error Objects
+
+- Expressions and Operators
+  - Assignment Operators
+  - Comparison Operators
+  - Arithmetic Operators
+  - Bitwise Operators
+  - Logical Operators
+  - BigInt Operators
+  - String Operators
+  - Conditional Operators
+  - Comma Operators
+  - Unary Operators
+  - Relational Operators
+
+- Functions
+  - Defining Functions
+  - Calling Functions
+  - Function Parameters
+    - Default Parameters
+    - Rest Parameters
+  - Arrow Functions
+  - IIFEs
+  - `arguments` Object
+  - Scope and Function Stack
+    - Recursion
+    - Lexical Scoping
+    - Closures
+  - JavaScript's Built-in Functions
+
+- Strict Mode `use strict`
+- `this` keyword
+  - `this` in a method
+  - `this` in a function (default mode)
+  - `this` alone
+  - `this` in a function (strict mode)
+  - `this` in Event Handlers
+  - `this` in arrow functions
+  - Explicit Function Binding
+    - `call` method
+    - `apply` method
+    - `bind` method
+  - Function Borrowing
+  
+- Asynchronous JavaScript
+  - setTimeout
+  - setInterval
+  - callbacks / callback hell
+  - Promises
+  - async/await
+- Event Loop
+- Classes
+- Iterators and Generators
+- modules in javascript
+  - Common JS vs ESM
+- Memory Management
+  - Memory Lifecycle
+  - Garbage Collection
+- Debugging
+  - JavaScript Bugs
+  - Performance Issues

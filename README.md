@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BuildersChain/Developers-Roadmap" height="128">
+  <img src="https://user-images.githubusercontent.com/91731654/219326368-6816e031-8d0d-45bd-9a0c-8c1f12b157ad.png" height="128">
   <h2 align="center"><a href="https://github.com/BuildersChain">BuildersChain</a></h2>
   <p align="center">Community driven roadmaps, articles and resources for developers</p>
   <p align="center">

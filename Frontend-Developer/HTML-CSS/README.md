@@ -1,6 +1,8 @@
 # HTML
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height="80" alt="HTML">
 
 ## Introduction
+
 
 ### What is HTML????
 
@@ -12,6 +14,12 @@ For more details check out these following resources:
 1. [MDN Docs on HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 2. [W3S HTML Tutorial](https://www.w3schools.com/html/)
 3. [Wikipedia](https://en.wikipedia.org/wiki/HTML)
+
+
+# CSS
+<img align="right" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="80" alt="CSS">
+
+## Introduction
 
 
 ### What is CSS????

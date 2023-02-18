@@ -17,7 +17,7 @@ For more details check out these following resources:
 
 
 # CSS
-<img align="right" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="80" alt="CSS">
+<img align="right" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" height="80" alt="CSS">
 
 ## Introduction
 

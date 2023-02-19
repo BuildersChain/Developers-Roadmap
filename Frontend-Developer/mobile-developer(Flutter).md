@@ -55,3 +55,4 @@ if error of android toolchain,
 go to android studio installation path by cd then run -> mklink /D "jre" "jbr" -> this will create a symbolic link so sdk will be able to run required dependancies from jbr
 if any error of flutter sdk then -> make sure flutter/bin is added into path environment variables
 if any error of cmake,  make sure simple visual studio is installed with cmake package
+![alt text](http://Frontend-Developer\Screenshot 2023-02-20 011032.png)

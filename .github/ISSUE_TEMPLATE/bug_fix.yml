@@ -1,0 +1,40 @@
+name: Bug Fix Issue
+description: Found a bug? Use this template to report it!
+title: "[BUG] <description>"
+labels: ["aspect: bug"]
+body:
+  - type: textarea
+    id: bug_description
+    attributes:
+      label: Bug Description
+      description: A brief description of the bug, including any error messages or unexpected behavior observed.
+    validations:
+      required: true
+  - type: textarea
+    id: steps_to_reproduce
+    attributes:
+      label: Steps to Reproduce
+      description: Please list the exact steps to reproduce the bug. Be as specific as possible, and include any input data, expected output, or any other relevant details.
+    validations:
+      required: true
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: Expected Behavior
+      description: Describe what should have happened when the steps above were performed. Be as specific as possible.
+    validations:
+      required: true
+  - type: textarea
+    id: actual_behavior
+    attributes:
+      label: Actual Behavior
+      description: Describe what actually happened.
+    validations:
+      required: true
+  - type: textarea
+    id: suggested_fix
+    attributes:
+      label: Suggested Fix
+      description: Provide any suggested fixes or solutions for the bug if applicable.
+    validations:
+      required: false

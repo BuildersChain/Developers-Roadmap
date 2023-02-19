@@ -32,7 +32,7 @@ Welcome to the Developer Roadmap! This guide is designed to help aspiring develo
 
 Here is the list of available roadmaps with more being actively worked upon.
 
-- [Frontend Roadmap](Developers-Roadmap/Frontend-Developer/README.md)
+- [Frontend Roadmap](https://github.com/BuildersChain/Developers-Roadmap/tree/main/Frontend-Developer)
 - [Backend Roadmap]()
 - [DevOps Roadmap]()
 - [Computer Science Roadmap]()

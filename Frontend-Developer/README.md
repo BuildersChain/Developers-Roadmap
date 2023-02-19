@@ -2,6 +2,8 @@
 
 ## Basics of Internet
 
+<img align="right" src="https://cdn.icon-icons.com/icons2/3525/PNG/512/web_online_internet_global_earth_world_globe_icon_221254.png" height="80" alt="Internet">
+
 - [Overview]()
 
 ## HTML-CSS

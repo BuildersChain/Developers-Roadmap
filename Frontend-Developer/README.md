@@ -19,7 +19,7 @@
 <img align="right" src="https://vectorwiki.com/images/G9sE3__javascript.svg" height="60" alt="JavaScript"> 
 
 
-- [Overview](Developers-Roadmap/Frontend-Developer/JavaScript/Readme.md)
+- [Overview]()
 - [Code/command]()
 - [Projects]()
 
@@ -28,17 +28,17 @@
 
 <img align="right" src="https://raw.githubusercontent.com/kenangundogan/fontisto/ab2364a6e61bd6e4af1cf62a167485d658911ded/icons/svg/brand/github.svg" height="60" alt="Git-GitHub"> 
 
-- [Overview](Git-Github/README.md)
-- [Code/command](Git-Github/)
-- [Projects](Git-Github/)
+- [Overview]()
+- [Code/command]()
+- [Projects]()
 
 ## Framework
 
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXmXvvFyEs-lgYZW2X2CpJ_Kyjv0zLVE72lzVj3OiOeTf0gi1N7HXp011jKrMIzlTAm8&usqp=CAU)" height="60" alt="Frameworks"> 
 
-- [Overview](frameworks/README.md)
-- [Code/command](frameworks/)
-- [Projects](frameworks)
+- [Overview]()
+- [Code/command]()
+- [Projects]()
 
 
 <!-- The field of frontend development, which is expanding quickly, is in charge of giving online pages life. It entails utilising HTML, CSS, and JavaScript to design websites that are both user-friendly and aesthetically pleasing. Learning frontend development can be a terrific opportunity whether you are just starting out in your career or looking to transfer professions.

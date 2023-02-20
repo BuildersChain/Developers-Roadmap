@@ -39,7 +39,7 @@ Here is the list of available roadmaps with more being actively worked upon.
 - [QA Roadmap]()
 - [Software Architect Roadmap]()
 - [Software Design and Architecture Roadmap]()
-- [JavaScript Roadmap]()
+- [JavaScript Roadmap](Developers-Roadmap/Frontend-Developer/JavaScript/Javascript-roadmap.md)
 - [TypeScript Roadmap]()
 - [React Roadmap]()
 - [Vue Roadmap]()

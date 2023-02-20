@@ -47,7 +47,7 @@ Here is the list of available roadmaps with more being actively worked upon.
 - [Node.js Roadmap]()
 - [GraphQL Roadmap]()
 - [Android Roadmap]()
-- [Flutter Roadmap]()
+- [Flutter Roadmap](Developers-Roadmap/Frontend-Developer/mobile-developer(Flutter).md)
 - [Python Roadmap]()
 - [Go Roadmap]()
 - [Java Roadmap]()

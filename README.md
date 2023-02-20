@@ -58,7 +58,7 @@ Here is the list of available roadmaps with more being actively worked upon.
 - [ASP.NET Core Roadmap]()
 - [System Design Roadmap]()
 - [Kubernetes Roadmap]()
-
+- [Data Science Roadmap]()
 
 ## Share with the community
 

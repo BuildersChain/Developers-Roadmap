@@ -34,8 +34,6 @@ Here is the list of available roadmaps with more being actively worked upon.
 
 - [Frontend Roadmap](https://github.com/BuildersChain/Developers-Roadmap/tree/main/Frontend-Developer)
 
-- [Backend Roadmap]()
-
 - [Backend Roadmap](https://github.com/BuildersChain/Developers-Roadmap/tree/main/Backend-Developer)
 
 - [DevOps Roadmap](https://github.com/BuildersChain/Developers-Roadmap/tree/main/DevOps-Roadmap)

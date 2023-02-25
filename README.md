@@ -56,7 +56,7 @@ Here is the list of available roadmaps with more being actively worked upon.
 - [Spring Boot Roadmap]()
 - [Design System Roadmap]()
 - [DBA Roadmap]()
-- [Blockchain Roadmap](https://github.com/BuildersChain/Developers-Roadmap/tree/main/WEB3-Developer)
+- [Blockchain Roadmap](https://github.com/BuildersChain/Developers-Roadmap/blob/main/WEB3-Developer/WEB3-Development.md)
 - [ASP.NET Core Roadmap]()
 - [System Design Roadmap]()
 - [Kubernetes Roadmap]()

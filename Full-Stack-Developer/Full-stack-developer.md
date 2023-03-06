@@ -29,6 +29,7 @@ It's used for storing, tracking, and collaborating on software projects. It make
 
 
 ## Learn about Cloud service providers
+Cloud service providers are companies that establish public clouds, manage private clouds, or offer on-demand cloud computing components (also known as cloud computing services) like Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), and Software-as-a-Service(SaaS). Cloud services can reduce business process costs when compared to on-premise IT. 
 
 # Study resources
 * [AWS](https://docs.aws.amazon.com/)
@@ -38,6 +39,7 @@ It's used for storing, tracking, and collaborating on software projects. It make
 
 
 ## Learn GraphQL
+GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
 
 # Study resources
 * [GraphQl docs](https://graphql.org/)

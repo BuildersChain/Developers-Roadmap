@@ -19,6 +19,14 @@ TypeScript is a strongly typed programming language that builds on JavaScript, g
 * [Freecodecamp - Typescript tutorial](https://www.youtube.com/watch?v=30LWjhZzg50&t=777s)
 * [The net ninja Typescript tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
 
+## Learn Advance GitHub Features
+It's used for storing, tracking, and collaborating on software projects. It makes it easy for developers to share code files and collaborate with fellow developers on open-source projects.Learning advance features will help you collaborating more effeciently with other fellow developers. 
+
+# Study resources
+* [Github pages](https://www.typescriptlang.org/docs/)
+* [Github actions](https://www.youtube.com/watch?v=30LWjhZzg50&t=777s)
+* [Publishing packages](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+
 
 ## Learn about Cloud service providers
 
@@ -27,4 +35,13 @@ TypeScript is a strongly typed programming language that builds on JavaScript, g
 * [Azure](https://learn.microsoft.com/en-us/azure/?product=popular)
 * [Google cloud](https://cloud.google.com/training?hl=en)
 * [IBM](https://www.ibm.com/training/cloud)
+
+
+## Learn GraphQL
+
+# Study resources
+* [GraphQl docs](https://graphql.org/)
+* [Freecodecamp - GraphQl tutorial](https://www.youtube.com/watch?v=ed8SzALpx1Q)
+* [Traversy Media - GraphQl tutorial](https://www.youtube.com/watch?v=BcLNfwF04Kw)
+
 

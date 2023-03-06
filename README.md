@@ -72,7 +72,7 @@ Please consider sharing a post about [BuildersChain](https://github.com/Builders
 
 ## Contribution
 
-> Have a look at [contribution docs](./contribution.md) for how to update any of the roadmaps
+> Have a look at [contribution docs](./CONTRIBUTING.md) for how to update any of the roadmaps
 
 - Add content to roadmaps
 - Add new roadmaps

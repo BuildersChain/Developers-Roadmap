@@ -4,13 +4,13 @@ As we know Data Science, Machine Learning and Artificial Intelligence are hot to
 
 ## 1. Python Programming
 
-![image](https://user-images.githubusercontent.com/87495134/223043603-798be869-23e5-43b4-a39f-8f4db7aecca2.png)
+![giphy](https://user-images.githubusercontent.com/87495134/223048374-387a1bfb-0f5b-4bdb-b86b-facbc24168ec.gif)
 
 ## 2. Exploratory Data Analysis (EDA)
 
 Exploratory data analysis is an approach to analyzing data sets to summarize their main characteristics, often using statistical graphics and other data visualization methods. we can say that it is a technique to Analyze or visualize data in a much efficient way so that it makes a more meaningful.
 
-![image](https://user-images.githubusercontent.com/87495134/223043891-a1404950-b541-44eb-986a-9d7e33bb0f5a.png)
+![VxwKjYQ](https://user-images.githubusercontent.com/87495134/223048682-fc4f9bea-df3f-4133-96b4-0682acb4e061.gif)
 
 ## 3. Feature Engineering
 
@@ -22,7 +22,7 @@ Techniques:
 - Categorical Encoding
 - Normalization and Standardization
 
-![image](https://user-images.githubusercontent.com/87495134/223044254-bea3fbec-6614-4e70-866b-e75be04b3f7b.png)
+![1_7w7c8yS70eHR74qgBJJu8Q](https://user-images.githubusercontent.com/87495134/223048953-bcfc5d21-0037-43f9-bcc2-4df6dc366520.gif)
 
 ## 4. Feature Selection
 
@@ -35,7 +35,7 @@ Techniques:
 - Random forest importance
 - Feature Selection with Decision Tree
 
-![image](https://user-images.githubusercontent.com/87495134/223044452-d3bac1de-4f8e-406a-9247-5ad18e30d699.png)
+![1_550VHDZpV8DFrfOqnP9qBg](https://user-images.githubusercontent.com/87495134/223049081-1e79fac5-df35-4885-aa9e-93d56d4fc6dc.gif)
 
 ## 5. Machine Learning
 
@@ -59,7 +59,7 @@ Unsupervised Learning algorithms:
 - DB-scan Clustering
 - Silhouette Clustering
 
-![image](https://user-images.githubusercontent.com/87495134/223046277-603a514f-3606-4f56-94fc-21956c3a0f21.png)
+![0_PuscwCsUr09xZ0SJ](https://user-images.githubusercontent.com/87495134/223049344-c336ccd3-2914-445e-9736-1145f6147687.gif)
 
 ## 6. Hyperparmameter Tuning
 
@@ -72,7 +72,7 @@ Techniques:
 - Optuna
 - Genetic Algorithm
 
-![image](https://user-images.githubusercontent.com/87495134/223046805-b6eab77e-e3c3-4701-85d5-c55fe46f1e1c.png)
+![1_UMtPi1QBHpfE4iF_egJ8sQ](https://user-images.githubusercontent.com/87495134/223049539-59fa3927-787b-40d5-8382-831b8aa105e5.gif)
 
 ## 7. Docker
 
@@ -80,13 +80,11 @@ Docker is a set of the platform as service products that use OS-level virtualiza
 
 ![0_tz9m5jCHLFpEsTV_](https://user-images.githubusercontent.com/87495134/223047048-1e81c172-0bbf-4a4e-b2eb-93d7930bfe2b.gif)
 
-![image](https://user-images.githubusercontent.com/87495134/223046962-c9628279-062c-4a34-b395-91d4c45442ca.png)
-
 ## 8. Kubernetes
 
 Kubernetes is an open-source container-orchestration system for automating computer application deployment, scaling, and management. It was originally designed by Google and is now maintained by the Cloud Native Computing Foundation.
 
-![image](https://user-images.githubusercontent.com/87495134/223047285-21ba23f8-7d0f-446c-abb6-5653ca907738.png)
+![0_GdJIbmPH1JLSLSj1](https://user-images.githubusercontent.com/87495134/223049670-f749060b-5d17-4165-8911-276d5f78c150.gif)
 
 ## 9. Deployment
 
@@ -95,6 +93,6 @@ Learn deployment techniques about how to deploy an ml project on cloud services 
 - AZURE
 - GCP
 
-![image](https://user-images.githubusercontent.com/87495134/223047773-93e151a8-3f04-4c2d-abfa-6197cf93da23.png)
+![1_OMGcgxjpMa5bCu0gnemceg](https://user-images.githubusercontent.com/87495134/223049795-1a09b755-2c3c-4b3c-b07e-48798835ae21.gif)
 
 This is the complete path to master machine learning from end to end, hope this roadmap helps you to achieve your goal.

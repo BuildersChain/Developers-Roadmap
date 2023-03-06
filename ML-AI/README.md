@@ -1,1 +1,1 @@
-# Complete Roadmap for Data Science, Machine Learning and Artificial Intelligence
+# Complete Roadmap for Data Science, ML and AI

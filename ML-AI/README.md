@@ -33,7 +33,7 @@ Some Reading Resource:
 <img src='https://www.python.org/static/img/python-logo@2x.png' alt="pythonTutorial" height=45>
 </a>
 <a href='https://www.javatpoint.com/python-tutorial'>
-<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYBAMAAABpfeIHAAAAMFBMVEX/AAD/AAD/AAD/AAD/AABHcEz/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD+/v7+/v4vvxzKAAAAEHRSTlNt/+4JxgA+gdibqywdWjgUSJzdvgAAALFJREFUeAFVyyEIwlAUheFnLx4R5mYyaDKJglWsBmGcLa0I69izRZNhwTijURiYxWAHe7Inu3v38tjeHz/4TQdePTP3oWuSkQdrwz0wuEjX+qgMl0BI6Q0ENEzacKjBPkARw1ZZeDUQ0ELWwEaAZwe9vIYvOXMQUiFzMBaQRyF38FAI6WCrcHJAlgKfBp4oiIgCP8pzvGGqQFtcQg8HvAPRog0pMGEbuNKjgV2fPqRDan/MBGl7w85HygAAAABJRU5ErkJggg==' alt="pythonTutorial" height=30>
+<img src='https://yt3.googleusercontent.com/ytc/AL5GRJXSNQ2Jflr_Y-089hLUhgEmbvxCPu3OVU2wG1op=s900-c-k-c0x00ffffff-no-rj' alt="JavaTpoint" height=40 width=40>
 </a>
 <br>
 <br>

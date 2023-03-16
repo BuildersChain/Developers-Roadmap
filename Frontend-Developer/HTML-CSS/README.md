@@ -13,7 +13,8 @@ For more details check out these following resources:
 
 1. [MDN Docs on HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 2. [W3S HTML Tutorial](https://www.w3schools.com/html/)
-3. [Wikipedia](https://en.wikipedia.org/wiki/HTML)
+3. [Javatpoint HTML Tutorial](https://www.javatpoint.com/html-tutorial)
+4. [Wikipedia](https://en.wikipedia.org/wiki/HTML)
 
 
 # CSS
@@ -34,4 +35,5 @@ For more details check out these following resources:
 
 1. [MDN Docs on css](https://developer.mozilla.org/en-US/docs/Web/CSS)
 2. [W3S CSS Tutorial](https://www.w3schools.com/css/)
-3. [Wikipedia](https://en.wikipedia.org/wiki/CSS)
+3. [Javatpoint CSS Tutorial](https://www.javatpoint.com/css-tutorial)
+4. [Wikipedia](https://en.wikipedia.org/wiki/CSS)

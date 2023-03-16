@@ -32,6 +32,7 @@ which is a way of describing data using a text-based document. Because XML is ex
 [SetUp Android Studio geeksforgeeks](https://www.geeksforgeeks.org/guide-to-install-and-set-up-android-studio/)
 
 
-# Resources for Android Studio
+# Resource for Android Studio
 
 1. [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial)
+ 

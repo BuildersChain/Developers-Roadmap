@@ -1,7 +1,7 @@
  
 # Android Development?? 
- 
 
+![](https://i.imgur.com/waxVImv.png)
 
 Android development is a form of software engineering dedicated specifically to creating applications for devices that run on the Android platform. 
 
@@ -17,7 +17,9 @@ For more details check out these following resources:
  
 
 # What does Android development do? 
-    
+   
+![](https://i.imgur.com/waxVImv.png)
+   
    An android developer designs software and applications for Android devices and the Google Play Store. This software 
   developer creates apps used on Android phones and tablets. They often work for large organizations or directly for an app development company. 
  
@@ -27,6 +29,7 @@ For more details check out these following resources:
  
 # How Are Android Apps Developed? 
     
+![](https://i.imgur.com/waxVImv.png)
  
 Android Studio is the official, unified, integrated development environment (IDE) for building apps designed to run on Android devices. The platform offers app developers structured code modules to divide projects into units of functionality for independent building, testing and debugging. 
 

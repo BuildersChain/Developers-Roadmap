@@ -1,4 +1,4 @@
-# Android Projects 10 Idea
+# Android Projects 10 Ideas
 
 ![](https://i.imgur.com/waxVImv.png)
  

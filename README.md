@@ -2,20 +2,6 @@
   <img src="https://user-images.githubusercontent.com/91731654/219326368-6816e031-8d0d-45bd-9a0c-8c1f12b157ad.png" height="128">
   <h2 align="center"><a href="https://github.com/BuildersChain">BuildersChain</a></h2>
   <p align="center">Community driven roadmaps, articles and resources for developers</p>
-  <p align="center">
-    <a href="https://github.com/BuildersChain/Developers-Roadmap">
-    	<img src="https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
-    </a>
-    <a href="">
-    	<img src="https://img.shields.io/badge/-Videos-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="videos" />
-    </a>
-    <!-- <a href="https://github.com/kamranahmedse/developer-roadmap/tree/0471d44c8fae58b6a36a7c57bba12253916d0249/translations">
-    	<img src="https://img.shields.io/badge/-Translations-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="videos" />
-    </a> -->
-    <a href="">
-    	<img src="https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
-    </a>
-  </p>
 </p>
 
 <br>

@@ -27,13 +27,13 @@ Some Reading Resource:
 <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="geeksforgeeks" height=35>
 </a>
 <a href='https://www.w3schools.com/python/'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/1088px-W3Schools_logo.svg.png' alt="w3schools" height=40 width=40>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/1088px-W3Schools_logo.svg.png' alt="w3schools" height=40 width=40 hspace=40>
 </a>
 <a href='https://docs.python.org/3/tutorial/'>
 <img src='https://www.python.org/static/img/python-logo@2x.png' alt="pythonTutorial" height=45>
 </a>
 <a href='https://www.javatpoint.com/python-tutorial'>
-<img src='https://yt3.googleusercontent.com/ytc/AL5GRJXSNQ2Jflr_Y-089hLUhgEmbvxCPu3OVU2wG1op=s900-c-k-c0x00ffffff-no-rj' alt="JavaTpoint" height=40 width=40>
+<img src='https://yt3.googleusercontent.com/ytc/AL5GRJXSNQ2Jflr_Y-089hLUhgEmbvxCPu3OVU2wG1op=s900-c-k-c0x00ffffff-no-rj' alt="JavaTpoint" height=40 width=40 hspace=30>
 </a>
 <br>
 <br>

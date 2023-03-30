@@ -1,6 +1,6 @@
 # What is DevRel?
 
-BuildersChain/Developers-Roadmap/DevRel/DevRel-at-DG@2x.jpg
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.deepgram.com%2Fwhat-is-devrel-a-deepgram-approach%2F&psig=AOvVaw2JSLY0TixLspDcSvu8fLKD&ust=1680246532782000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjHtqCMg_4CFQAAAAAdAAAAABAF" height="128">
 
 Developer Relations is abbreviated as DevRel. Developer Relations refers to a marketing strategy that prioritises relationships with developers. There is a term in general society known as PR (Public Relations); DevRel is the developer version of this. Its definition is straightforward.
 

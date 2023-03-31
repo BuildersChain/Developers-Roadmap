@@ -39,7 +39,8 @@ Git is a distributed version control system that helps keep track of changes in 
 * [Git Documentation](https://git-scm.com/doc)
 * [GitHub Documentation](https://git-scm.com/doc)
 * [Udemy's Git and GitHub Masterclass](https://www.udemy.com/course/git-and-github-masterclass/)
-* [FreeCodeCamp's Git Tutorials](https://www.freecodecamp.org/learn/git)
+* [FreeCodeCamp's Git Tutorials](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
 * [Codecademy's Git Tutorials](https://www.codecademy.com/learn/learn-git)
+* [Kunal Kushwaha's Git and GitHub Tutorial](https://youtu.be/apGV9Kg7ics)
 
 By following these steps and using these resources, you will be able to effectively use Git and GitHub to manage your code and collaborate with other developers.

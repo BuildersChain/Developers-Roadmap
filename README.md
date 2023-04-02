@@ -22,30 +22,15 @@ Here is the list of available roadmaps with more being actively worked upon.
 
 - [Backend Roadmap](https://github.com/BuildersChain/Developers-Roadmap/tree/main/Backend-Developer)
 
-- [DevOps Roadmap](https://github.com/BuildersChain/Developers-Roadmap/tree/main/DevOps-Roadmap)
-- [Computer Science Roadmap]()
-- [QA Roadmap]()
-- [Software Architect Roadmap]()
-- [Software Design and Architecture Roadmap]()
-- [JavaScript Roadmap](https://github.com/BuildersChain/Developers-Roadmap/blob/main/Frontend-Developer/JavaScript/Javascript-roadmap.md)
-- [TypeScript Roadmap]()
-- [React Roadmap]()
-- [Vue Roadmap]()
-- [Angular Roadmap]()
-- [Node.js Roadmap]()
-- [GraphQL Roadmap]()
-- [Android Roadmap]()
-- [Flutter Roadmap](https://github.com/BuildersChain/Developers-Roadmap/blob/main/Frontend-Developer/mobile-developer(Flutter).md)
-- [Python Roadmap]()
-- [Go Roadmap]()
-- [Java Roadmap]()
-- [Spring Boot Roadmap]()
-- [Design System Roadmap]()
-- [DBA Roadmap]()
 - [Blockchain Roadmap](https://github.com/BuildersChain/Developers-Roadmap/blob/main/WEB3-Developer/WEB3-Development.md)
-- [ASP.NET Core Roadmap]()
-- [System Design Roadmap]()
-- [Kubernetes Roadmap]()
+
+- [AI - ML Roadmap](https://github.com/BuildersChain/Developers-Roadmap/tree/main/ML-AI)
+
+- [JavaScript Roadmap](https://github.com/BuildersChain/Developers-Roadmap/blob/main/Frontend-Developer/JavaScript/Javascript-roadmap.md)
+
+- [Android Roadmap](https://github.com/BuildersChain/Developers-Roadmap/tree/main/Android%20Developer)
+
+- [DevRel Roadmap](https://github.com/BuildersChain/Developers-Roadmap/tree/main/DevRel)
 
 
 ## Share with the community

@@ -57,6 +57,20 @@ Some Reading Resource:
 Exploratory data analysis is an approach to analyzing data sets to summarize their main characteristics, often using statistical graphics and other data visualization methods. we can say that it is a technique to Analyze or visualize data in a much efficient way so that it makes a more meaningful.
 </h3>
 
+<h2>
+Some Reading Resource:
+</h2>
+<br>
+<a href='https://www.ibm.com/in-en/topics/exploratory-data-analysis#:~:text=Exploratory%20data%20analysis%20(EDA)%20is,often%20employing%20data%20visualization%20methods'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/2560px-IBM_logo.svg.png" height=35>
+</a>
+<a href='https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15'>
+<img src='https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb.jpg' alt="w3schools" height=50 width=100 hspace=40>
+</a>
+<a href='https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/'>
+<img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="geeksforgeeks" height=35>
+</a>
+
 ![VxwKjYQ](https://user-images.githubusercontent.com/87495134/223048682-fc4f9bea-df3f-4133-96b4-0682acb4e061.gif)
 
 <h1>

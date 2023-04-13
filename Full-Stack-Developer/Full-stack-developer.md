@@ -60,13 +60,22 @@ A content delivery network, or content distribution network, is a geographically
 
 # What is CDN
 
-_[Resource 1](https://www.cloudflare.com/en-in/learning/cdn/what-is-a-cdn/)
-_[Resource 2](https://www.hostinger.in/tutorials/what-is-cdn) \*[Resource 3](https://www.youtube.com/watch?v=Bsq5cKkS33I)
+- [Resource 1](https://www.cloudflare.com/en-in/learning/cdn/what-is-a-cdn/)
+- [Resource 2](https://www.hostinger.in/tutorials/what-is-cdn)
+- [Resource 3](https://www.youtube.com/watch?v=Bsq5cKkS33I)
 
 ## Learning scaling
 
 It can be defined as a process to expand the existing configuration (servers/computers) to handle a large number of user requests or to manage the amount of load on the server. This process is called scalability.
 
-_[App server scaling](https://www.youtube.com/watch?v=xUumgxZ04SM)
-_[Web app archietecture](https://www.youtube.com/watch?v=sDlCSIDwpDs)  
-\*[Types of scaling](https://www.youtube.com/watch?v=xpDnVSmNFX0)
+- [App server scaling](https://www.youtube.com/watch?v=xUumgxZ04SM)
+- [Web app archietecture](https://www.youtube.com/watch?v=sDlCSIDwpDs)
+- [Types of scaling](https://www.youtube.com/watch?v=xpDnVSmNFX0)
+
+## Deploying on web servers
+
+Software deployment is all of the activities that make a software system available for use. The general deployment process consists of several interrelated activities with possible transitions between them.
+
+- [Deploy a MERN project on heroku](https://www.freecodecamp.org/news/deploying-a-mern-application-using-mongodb-atlas-to-heroku/)
+- [Linux server setup and MERN deployment](https://www.youtube.com/watch?v=7aRjGIhwyQM)
+- [Full node js deployment](https://www.youtube.com/watch?v=oykl1Ih9pMg&feature=youtu.be)

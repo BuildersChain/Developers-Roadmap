@@ -21,7 +21,7 @@ Here is the list of available roadmaps with more being actively worked upon.
 
 - [Backend Roadmap](https://github.com/BuildersChain/Developers-Roadmap/tree/main/Backend-Developer)
 
-- [Blockchain Roadmap](https://github.com/BuildersChain/Developers-Roadmap/blob/main/WEB3-Developer/WEB3-Development.md)
+- [Blockchain Roadmap](https://github.com/BuildersChain/Developers-Roadmap/tree/main/WEB3-Developer)
 
 - [AI - ML Roadmap](https://github.com/BuildersChain/Developers-Roadmap/tree/main/ML-AI)
 

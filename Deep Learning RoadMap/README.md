@@ -175,3 +175,9 @@ Making projects and learning from them is the essential part because without thi
 - Face Detection
 - Image Classification 
 - Color detection
+
+
+#### For more awareness about the learning platforms which provide the knowledge about skills to be learnt
+![N|Solid](https://www.animatedimages.org/data/media/111/animated-arrow-image-0032.gif)(https://www.mltut.com/deep-learning-roadmap/)
+
+

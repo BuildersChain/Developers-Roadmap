@@ -4,7 +4,7 @@
   - What is JavaScript?
   - History of JavaScript
   - JavaScript Versions
-  - How to Run JavaScript
+  - How & Where to Run JavaScript
 
 - All about Variables
   - Rules for naming variables
@@ -16,7 +16,7 @@
     - Block Scope
     - Global Scope
     - Function Scope
-  - Hoisting
+  - Hosting
 
 - Data Types
   - Primitive Types
@@ -32,18 +32,6 @@
     - Prototypal Inheritance
   	- Built-in Objects
   - `typeof` operator
-
-- Data Structures
-    - Indexed Collections
-      - Arrays
-      - Typed Arrays
-    - Keyed Collections
-      - Map
-      - Weak Map
-      - Set
-      - Weak Set
-    - Structured Data
-      - JSON
 
 - Type Casting
   - Implicit Type Casting
@@ -74,6 +62,19 @@
   - Conditional Statements
     - if...else
     - switch
+
+- Data Structures
+    - Indexed Collections
+      - Arrays
+      - Typed Arrays
+    - Keyed Collections
+      - Map
+      - Weak Map
+      - Set
+      - Weak Set
+    - Structured Data
+      - JSON
+
   - Exception Handling Statements
     - throw statement
     - try / catch / finally statement

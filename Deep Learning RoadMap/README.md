@@ -2,6 +2,14 @@
 
 Deep learning is a branch of machine learning and artificial intelligence that uses advanced computations to model the structure and operation of the neural networks in the human brain. In order to automatically extract and learn complicated representations of data patterns, hierarchical features, and complex abstractions from large-scale datasets, it revolves around training and using deep artificial neural networks, which are typically made up of multiple layers of interconnected nodes or artificial neurons.
 
+## Table of contents
+
+### [Applications of Deep Learning](https://github.com/GauriTr/Developers-Roadmap-Dl)
+### [Carrier Paths in deep learning](https://github.com/GauriTr/Developers-Roadmap-Dl)
+### [Skills needed to be acquired](https://github.com/GauriTr/Developers-Roadmap-Dl)
+
+
+
 ## Applications of Deep Learning
 Deep learning has various applications specially in this day and age as it is growing day by day there is so much to explore.
 
@@ -23,6 +31,8 @@ As a result, the field of machine learning and deep learning is very expansive a
 - Research Scientist
 - Natural Language 
 - Software devloper with specialization in Data Science
+- AI consultant
+- AI architect
 
 
 ## Skills needed to be acquired

@@ -4,9 +4,9 @@ Deep learning is a branch of machine learning and artificial intelligence that u
 
 ## Table of contents
 
-### [Applications of Deep Learning](https://github.com/GauriTr/Developers-Roadmap-Dl)
-### [Carrier Paths in deep learning](https://github.com/GauriTr/Developers-Roadmap-Dl)
-### [Skills needed to be acquired](https://github.com/GauriTr/Developers-Roadmap-Dl)
+### [Applications of Deep Learning](https://github.com/GauriTr/Developers-Roadmap-Dl/tree/main/Deep%20Learning%20RoadMap)
+### [Carrier Paths in deep learning](https://github.com/GauriTr/Developers-Roadmap-Dl/tree/main/Deep%20Learning%20RoadMap)
+### [Skills needed to be acquired](https://github.com/GauriTr/Developers-Roadmap-Dl/tree/main/Deep%20Learning%20RoadMap)
 
 
 

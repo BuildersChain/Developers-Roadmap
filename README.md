@@ -25,6 +25,8 @@ Here is the list of available roadmaps with more being actively worked upon.
 
 - [AI - ML Roadmap](https://github.com/BuildersChain/Developers-Roadmap/tree/main/ML-AI)
 
+- [AI DL Roadmap](https://github.com/BuildersChain/Developers-Roadmap/blob/main/Deep%20Learning%20RoadMap/README.md)
+
 - [JavaScript Roadmap](https://github.com/BuildersChain/Developers-Roadmap/blob/main/Frontend-Developer/JavaScript/Javascript-roadmap.md)
 
 - [Android Roadmap](https://github.com/BuildersChain/Developers-Roadmap/tree/main/Android%20Developer)
